@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Varum ist die Banane krumm?";
 ```
+
+- [ ] Erfolgreich eine Liste erstellen
+- [ ] Sie sollte mehrere Punkte haben
+- [x] außerdem sollte mindestens ein Kästchen angehakt sein
